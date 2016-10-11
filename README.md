@@ -1,0 +1,2 @@
+# masterwits
+static website
