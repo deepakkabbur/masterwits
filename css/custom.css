@@ -1,0 +1,18 @@
+.logo img {
+  width: 300px;
+  height: auto;
+  margin: 20px auto;
+  display: block;
+}
+.construction {
+  text-align: center;
+  color: #a92020;
+}
+.construction img {
+  width: 400px;
+  display: block;
+  margin: 40px auto;
+}
+footer {
+  text-align: center;
+}
